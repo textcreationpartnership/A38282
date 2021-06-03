@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several votes of the Commmons assembled in Parliament concerning delinquents</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38282</idno><idno type="EEBO-CITATION">12400278</idno>
+  <idno type="VID">61258</idno>
+  <idno type="EEBO-PROQUEST">2240944637</idno>
+  
+            <idno type="STC">Wing E2732</idno>
+            <idno type="STC">ESTC R19784</idno>
+            <idno type="OCLC">12400278</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61258)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several votes of the Commmons assembled in Parliament concerning delinquents</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Dec. 17, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntingtion Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc. --  England --  Sources.</term>
+               <term type="topical_term">Catholics --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61258:1"/>
+            <pb facs="tcp:61258:1"/>
+            <p>SEVERAL VOTES OF THE COMMONS Assembled in PARLIAMENT, Concerning Delinquents.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the</hi> COMMONS <hi>assembled in Parliament, That these</hi> Votes <hi>be forthwith printed and published.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>H: Elsynge, Cler. Parl. D. Com.</p>
+            <p>LONDON: Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of <hi>Commons. Dec.</hi> 17. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="resolutions">
+            <pb facs="tcp:61258:2"/>
+            <pb n="3" facs="tcp:61258:2"/>
+            <head>Die Martis, 10 Novem. 1646. <hi>Several VOTES of the Commons assembled in Parliament, concern<g ref="char:EOLhyphen"/>ing Delinquents.</hi>
+            </head>
+            <opener>Resolved, &amp;c.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Committee of Se<g ref="char:EOLhyphen"/>questrations in the several Counties, do return to the Committee at <hi>Goldsmiths-Hall,</hi> all the Names of Papists and Delinquents, which are or have been Sequestred by them respectively in their several Counties; and a particu<g ref="char:EOLhyphen"/>lar List of all the Estates of such per<g ref="char:EOLhyphen"/>sons, and to whom they have been let during the Sequestration thereof, and
+<pb n="4" facs="tcp:61258:3"/> what the values thereof were before the VVar.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi> That the Estates real and personal of all Papists and Delin<g ref="char:EOLhyphen"/>quents within the Ordinances of Se<g ref="char:EOLhyphen"/>questrations, not yet sequestred, and not compounded for at <hi>Goldsmiths-Hall,</hi> be speedily sequestred, and the Names of such Delinquents sent up to the Committee at <hi>Goldsmiths-Hall,</hi>
+            </p>
+            <p>
+               <hi>Resolved, &amp;c.</hi> That the Lands and Estates of such persons as are excepted in the first three qualifications of the Propositions, or any part thereof, shall not be let or demised to the Owners thereof, or to their Bailiffs or Ser<g ref="char:EOLhyphen"/>vants, or to any person or persons
+<pb n="5" facs="tcp:61258:3"/> in trust for them, or to their use or behoof.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi> That the Lands and Estates of other Delinquents capable to be admitted to Composition, se<g ref="char:EOLhyphen"/>questred, or which shall be sequestred, in the several respective Counties, or any part thereof, shall not in any case be let or demised unto the Owners thereof, or to their Bailiffs or Servants, or to any other persons in trust for them, or to their use or behoof, unlesse such Delinquents shall by Certificate from the Committee at <hi>Goldsmiths-Hall</hi> make it appear, that they are in their actual prosecution of their Com<g ref="char:EOLhyphen"/>positions, and do proceed therein with<g ref="char:EOLhyphen"/>out delay on their parts.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="resolutions">
+            <pb n="6" facs="tcp:61258:4"/>
+            <head>Die Martis, 8. Decemb. 1646.</head>
+            <p>
+               <hi>Resolved, &amp;c.</hi> THat no Committee man, Seque<g ref="char:EOLhyphen"/>strator, Collector or other Offi<g ref="char:EOLhyphen"/>cer imployed in the Sequestrations in the several respective Counties, shall by himself, or any other in trust for him, or to his use, take to Farm or Rent, any Lands or Estates seque<g ref="char:EOLhyphen"/>stred, or to be sequestred in the said se<g ref="char:EOLhyphen"/>veral Counties where he is a Com<g ref="char:EOLhyphen"/>mittee▪ man, Sequestrator, Collector or other Officer imployed in the Se<g ref="char:EOLhyphen"/>questrations as aforesaid.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi> That all the Lands and estates of Papists and Delinquents sequestred, and to be sequestred in the several and respective Counties
+<pb n="7" facs="tcp:61258:4"/> shall be let out at the utmost improved yearly values that any man will give for the same: And that all Leases and Grants made to any Delinquents or Papists, the owners of the said Lands and Estates, or to their Servants, or any in trust for them, at a lower rate and value then the same were tru<g ref="char:EOLhyphen"/>ly worth, and might have been demised for to others, at the time the said Lease shall be void.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi> That all persons in the several and respective Counties who have been in Arms, or left their Habitations, and resided in the Ene<g ref="char:EOLhyphen"/>mies Garisons, and are liable to Se<g ref="char:EOLhyphen"/>questrations, and have not tendred themselves to a Composition for their Estates, and prosecuted it with
+<pb n="8" facs="tcp:61258:5"/> effect at <hi>Goldsmiths Hall,</hi> and are at liberty, and not comprised within any Articles, whereby they are protected, shall be forthwith apprehended and committed to safe Custody by the Committee of Parliament residing in the several Counties, and their names certified to the Committee at <hi>Gold<g ref="char:EOLhyphen"/>smiths Hall.</hi> Provided, That such persons whose Estates real or personal are not worth Two hundred pounds, be hereby pardoned and discharged from Sequestration, they coming in acco<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding to the time limited in the Propositions, and taking the Negative Oath and Covenant.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61258:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
